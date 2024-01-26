@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  outline: none !important;
+  padding: 2rem;
+  min-height: 100vh;
+}
+
+.wordName {
+  color: rgb(65, 105, 225);
+}
+
+.wordMeaning {
+  text-align: center;
+}
